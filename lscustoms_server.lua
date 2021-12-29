@@ -1,9 +1,4 @@
---[[
-Los Santos Customs V1.1 
-Credits - MythicalBro
-/////License/////
-Do not reupload/re release any part of this script without my permission
-]]
+
 local tbl = {
 [1] = {locked = false, player = nil},
 [2] = {locked = false, player = nil},
